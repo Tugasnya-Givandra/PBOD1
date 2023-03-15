@@ -1,0 +1,4 @@
+./org/poligon/Poligon.java
+./org/bangundatar/PersegiPanjang.java
+./org/bangundatar/Segitiga.java
+./org/main/MPoligon.java

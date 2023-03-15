@@ -1,0 +1,4 @@
+./org/bangunruang/Kubus.java
+./org/poligon/Poligon.java
+./org/bangundatar/BujurSangkar.java
+./org/main/MKubus.java
