@@ -1,3 +1,12 @@
+/*
+ *	Nama File   : Segitiga.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Class Segitiga yang merupakan turunan dari class Poligon
+*/
+
+
 package org.bangundatar;
 
 import org.poligon.Poligon;

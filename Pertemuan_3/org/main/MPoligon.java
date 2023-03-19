@@ -1,3 +1,12 @@
+/*
+ *	Nama File   : MPoligon.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Driver class untuk pertemuan 3, menguji class PersegiPanjang dan Segitiga
+*/
+
+
 package org.main;
 
 import org.bangundatar.PersegiPanjang;

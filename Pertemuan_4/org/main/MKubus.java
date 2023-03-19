@@ -1,3 +1,12 @@
+/*
+ *	Nama File   : MKubus.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Driver class untuk pertemuan 4, menguji class BujurSangkar dan Kubus
+*/
+
+
 package org.main;
 
 import org.bangundatar.BujurSangkar;

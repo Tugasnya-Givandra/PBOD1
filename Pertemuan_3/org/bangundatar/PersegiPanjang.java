@@ -1,3 +1,11 @@
+/*
+ *	Nama File   : PersegiPanjang.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Class PersegiPanjang yang merupakan turunan dari class Poligon
+*/
+
 package org.bangundatar;
 
 import org.poligon.*;

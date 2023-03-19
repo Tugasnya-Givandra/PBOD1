@@ -1,3 +1,12 @@
+/*
+ *	Nama File   : Kubus.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Impementasi class Kubus yang menggunakan class BujurSangkar
+                    sebagai membernya
+*/
+
 package org.bangunruang;
 
 import org.bangundatar.BujurSangkar;

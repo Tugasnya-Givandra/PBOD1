@@ -1,3 +1,14 @@
+/*
+ *	Nama File   : BujurSangkar.java
+ *	Pembuat	    : Givandra Haikal Adjie
+ *	NIM         : 24060121130063
+ *	Tanggal     : Minggu, 19 Maret 2023
+ *	Deskripsi   : Implementasi class Bujursangkar yang merupakan 
+                    turunan dari class Poligon yang akan digunakan
+                    sebagai member dari class Kubus
+*/
+
+
 package org.bangundatar;
 
 import org.poligon.Poligon;
