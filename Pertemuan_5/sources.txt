@@ -1,0 +1,6 @@
+./org/BangunDatar.java
+./org/BujurSangkar.java
+./org/IArea.java
+./org/Lingkaran.java
+./org/MBujurSangkar.java
+./org/MLingkaran.java
