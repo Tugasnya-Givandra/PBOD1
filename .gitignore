@@ -1,1 +1,5 @@
 *.class
+*.zip
+test.java
+PolimofismeCoercion.java
+.vscode
